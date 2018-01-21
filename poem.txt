@@ -4,5 +4,7 @@ red
 orange
 yellow 
 green
+blue
+purple
 
 these are colors of raibow
