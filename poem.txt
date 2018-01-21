@@ -7,4 +7,4 @@ green
 blue
 purple
 
-these are colors of raibow
+these are colors of rainbow
